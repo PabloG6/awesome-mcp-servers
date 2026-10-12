@@ -153,6 +153,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
 
+- [PdfParse](https://github.com/PabloG6/pdfparse-integrations) - Official hosted MCP server for extracting PDFs into structured tables, querying saved records, and configuring document inbox workflows. Connect with Streamable HTTP and OAuth; a PdfParse account is required.
+
 
 <br />
 
